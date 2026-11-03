@@ -2,7 +2,7 @@ public class Main {
     public static void searchBook(String title) {
         System.out.println("Book found: " + title);
     }
-
+// This function removes a book from the library by its ID
     public static void removeBook(int bookId) {
         System.out.println("Removing book with ID: " + bookId);
     }
