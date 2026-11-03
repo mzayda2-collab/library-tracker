@@ -1,0 +1,5 @@
+public class Main {
+    public static void searchBook(String title) {
+        System.out.println("Searching for book: " + title);
+    }
+}
