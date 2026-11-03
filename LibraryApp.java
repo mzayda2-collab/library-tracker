@@ -58,7 +58,6 @@ public class LibraryApp {
             System.out.println("No books found or error reading file.");
         }
     }
-    public static void print_banner() {
-    System.out.println("Welcome to Library Tracker - Version A");
-}
+public static void print_banner() {
+    System.out.println("Welcome to Library Tracker - Version A);
 }
