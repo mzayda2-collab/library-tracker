@@ -8,7 +8,7 @@ import org.json.simple.parser.ParseException;
 
 public class LibraryApp {
     
-    
+    // Adds a new book to the library collection
     public static void addBook(String title, String author) {
         JSONArray books = new JSONArray();
         JSONParser parser = new JSONParser();
