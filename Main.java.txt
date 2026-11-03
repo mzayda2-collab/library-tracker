@@ -2,4 +2,8 @@ public class Main {
     public static void searchBook(String title) {
         System.out.println("Searching for book: " + title);
     }
+
+    public static void removeBook(int bookId) {
+        System.out.println("Removing book with ID: " + bookId);
+    }
 }
