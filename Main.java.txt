@@ -1,6 +1,6 @@
 public class Main {
     public static void searchBook(String title) {
-        System.out.println("Searching for book: " + title);
+        System.out.println("Book found: " + title);
     }
 
     public static void removeBook(int bookId) {
